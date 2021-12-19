@@ -1,0 +1,5 @@
+C:/Qt/project/build-untitled5-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/untitled5.dir
+C:/Qt/project/build-untitled5-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Qt/project/build-untitled5-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Qt/project/build-untitled5-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/untitled5_autogen_timestamp_deps.dir
+C:/Qt/project/build-untitled5-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/CMakeFiles/untitled5_autogen.dir

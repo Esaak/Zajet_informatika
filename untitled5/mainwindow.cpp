@@ -148,6 +148,9 @@ void MainWindow::  inverse(MainWindow &submatrix){
     else{
         MainWindow inmatrix;
         MainWindow tmp_matrix;
+        tmp_matrix.height=2;
+        tmp_matrix.weight=2;
+
         for(unsigned int i=0; i<inmatrix.height; i++){
             for(unsigned int j=0; j<inmatrix.weight; j++){
                 unsigned int i_tmp=0;
@@ -224,7 +227,7 @@ void MainWindow::Gaussr()
     submatrix.input(submatrix, mass);
     submatrix.Gauss(submatrix);
         QString rank = QString::number(submatrix.rank);
-        ui->lidet->setText(rank);
+        ui->lirank->setText(rank);
     }
 void MainWindow::inversed(){
     QPushButton *button = (QPushButton *)sender();
